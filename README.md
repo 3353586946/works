@@ -1,2 +1,2 @@
-# cfblog
-运行在CloudFlareWorkers上的博客
+# My CF Blog
+运行在CloudFlare Workers 和 Github 上的博客
